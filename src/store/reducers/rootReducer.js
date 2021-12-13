@@ -1,8 +1,8 @@
 const initState = {
   users: [
-    { id: 1, name: "Eric" },
-    { id: 2, name: "Hoi Dan IT" },
-    { id: 3, name: "Hoi Dan IT voi ERIC" },
+    { id: 1, name: "Van" },
+    { id: 2, name: "Van Ngo 1999" },
+    { id: 3, name: "Ngo Trong Van" },
   ],
   posts: [],
 };
